@@ -1,2 +1,0 @@
-C:\Users\andre\source\repos\ChaosTest\x64\Debug\ChaosTest.exe
-C:\Users\W1811898\source\repos\ChaosGames\ChaosTest\x64\Debug\ChaosTest.exe
